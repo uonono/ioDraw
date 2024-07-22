@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T10:48:40.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="-RDaBaomYWTzS4Np5CWB" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T10:49:09.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="G7mi-Lp5JckIoL8RDiYb" version="24.7.1" type="github">
   <diagram name="第 1 页" id="1ps2bYv6ScKSguF08gRz">
     <mxGraphModel dx="2261" dy="1949" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,6 +87,18 @@
         </mxCell>
         <mxCell id="49B0i8A7i4MzncCd7AZk-31" value="检查设备信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-193" y="-181" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="49B0i8A7i4MzncCd7AZk-32" value="工作调整详细" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-801" y="-83" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="49B0i8A7i4MzncCd7AZk-33" value=" 患者服务员工信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-586" y="-83" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="49B0i8A7i4MzncCd7AZk-34" value=" 项目信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-386" y="-88" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="49B0i8A7i4MzncCd7AZk-35" value=" 订单信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-193" y="-83" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
