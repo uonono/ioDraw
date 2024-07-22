@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T11:16:38.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="36_E2uFoT59VHUFeaI3D" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T11:19:07.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="XMR7N3p-HJRDx4TnMGiu" version="24.7.1" type="github">
   <diagram name="第 1 页" id="1ps2bYv6ScKSguF08gRz">
     <mxGraphModel dx="3088" dy="1949" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="49B0i8A7i4MzncCd7AZk-2" value="医生等级信息&lt;div&gt;（职称）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-791" y="-706" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="49B0i8A7i4MzncCd7AZk-3" value="医生信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="49B0i8A7i4MzncCd7AZk-3" value="医生信息&lt;div&gt;（医生）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-791" y="-863" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="49B0i8A7i4MzncCd7AZk-4" value="用户信息&lt;div&gt;（用户）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -94,7 +94,7 @@
         <mxCell id="49B0i8A7i4MzncCd7AZk-33" value=" 患者服务员工信息&lt;div&gt;（病人对应服务人员）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-586" y="-83" width="147" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="49B0i8A7i4MzncCd7AZk-34" value=" 项目信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="49B0i8A7i4MzncCd7AZk-34" value=" 项目信息&lt;div&gt;（收费项目）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-386" y="-88" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="49B0i8A7i4MzncCd7AZk-35" value=" 订单信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -103,7 +103,7 @@
         <mxCell id="49B0i8A7i4MzncCd7AZk-36" value="医生注册类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="82" y="-865" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="49B0i8A7i4MzncCd7AZk-37" value="病人投标信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="49B0i8A7i4MzncCd7AZk-37" value="病人投标信息&lt;div&gt;（病人照管）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="-722" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="49B0i8A7i4MzncCd7AZk-38" value="用户组信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
