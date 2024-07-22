@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T09:23:49.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.1" etag="sSITB4f92iXZRVetuPlR" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T10:44:55.990Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="uAUZbamuwIyqUIBxuRVA" version="24.7.1" type="github">
   <diagram name="第 1 页" id="1ps2bYv6ScKSguF08gRz">
-    <mxGraphModel>
+    <mxGraphModel dx="2261" dy="1949" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="49B0i8A7i4MzncCd7AZk-1" value="诊室信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="-860" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="49B0i8A7i4MzncCd7AZk-2" value="医生等级信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-791" y="-706" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="49B0i8A7i4MzncCd7AZk-3" value="医生信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-791" y="-863" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="49B0i8A7i4MzncCd7AZk-4" value="用户信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-568" y="-701" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
