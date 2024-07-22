@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T10:47:56.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="zBHY8KLjohuiJUaLVaR3" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T10:48:40.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="-RDaBaomYWTzS4Np5CWB" version="24.7.1" type="github">
   <diagram name="第 1 页" id="1ps2bYv6ScKSguF08gRz">
     <mxGraphModel dx="2261" dy="1949" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,6 +69,24 @@
         </mxCell>
         <mxCell id="49B0i8A7i4MzncCd7AZk-25" value="位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-582" y="-296" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="49B0i8A7i4MzncCd7AZk-26" value="全局设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-367" y="-291" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="49B0i8A7i4MzncCd7AZk-27" value="病历目录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-169" y="-305" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="49B0i8A7i4MzncCd7AZk-28" value="临时病历" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-804" y="-186" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="49B0i8A7i4MzncCd7AZk-29" value="步骤信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-596" y="-186" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="49B0i8A7i4MzncCd7AZk-30" value="中医诊断信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-396" y="-192" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="49B0i8A7i4MzncCd7AZk-31" value="检查设备信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-193" y="-181" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
