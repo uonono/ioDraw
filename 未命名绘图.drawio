@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T11:19:07.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="XMR7N3p-HJRDx4TnMGiu" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T11:19:56.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2YACtBEGuupAVG255ZHB" version="24.7.1" type="github">
   <diagram name="第 1 页" id="1ps2bYv6ScKSguF08gRz">
     <mxGraphModel dx="3088" dy="1949" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,8 +61,8 @@
         <mxCell id="49B0i8A7i4MzncCd7AZk-22" value="用户病历模板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-378" y="-400" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="49B0i8A7i4MzncCd7AZk-23" value="分类组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-171" y="-403" width="120" height="50" as="geometry" />
+        <mxCell id="49B0i8A7i4MzncCd7AZk-23" value="分类组&lt;div&gt;（电子病历元素分组）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-171" y="-403" width="153" height="50" as="geometry" />
         </mxCell>
         <mxCell id="49B0i8A7i4MzncCd7AZk-24" value="医院联合详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-801" y="-289" width="120" height="50" as="geometry" />
