@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T11:19:56.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2YACtBEGuupAVG255ZHB" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T11:21:05.987Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="SDGZDXXHT-lTHyy1VbW5" version="24.7.1" type="github">
   <diagram name="第 1 页" id="1ps2bYv6ScKSguF08gRz">
     <mxGraphModel dx="3088" dy="1949" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,8 +73,8 @@
         <mxCell id="49B0i8A7i4MzncCd7AZk-26" value="全局设置&lt;div&gt;（系统参数）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-367" y="-291" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="49B0i8A7i4MzncCd7AZk-27" value="病历目录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-169" y="-305" width="120" height="50" as="geometry" />
+        <mxCell id="49B0i8A7i4MzncCd7AZk-27" value="病历目录&lt;div&gt;（电子病历左侧节点）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-169" y="-305" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="49B0i8A7i4MzncCd7AZk-28" value="临时病历" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-804" y="-186" width="120" height="50" as="geometry" />
