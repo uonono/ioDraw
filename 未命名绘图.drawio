@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T01:24:22.997Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Iy4JSfMgcbeKmpzkUVq7" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T01:26:38.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="mbts11x5K9yHuKSzncBH" version="24.7.1" type="github">
   <diagram name="第 1 页" id="1ps2bYv6ScKSguF08gRz">
     <mxGraphModel dx="3088" dy="1949" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,8 +28,8 @@
         <mxCell id="49B0i8A7i4MzncCd7AZk-8" value="检查信息&lt;div&gt;（中医辨识表）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-566" y="-605" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="49B0i8A7i4MzncCd7AZk-9" value="患者优惠券" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-364" y="-607" width="120" height="50" as="geometry" />
+        <mxCell id="49B0i8A7i4MzncCd7AZk-9" value="患者优惠券&lt;div&gt;（商城：用户对应优惠卷）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-378" y="-601" width="152" height="50" as="geometry" />
         </mxCell>
         <mxCell id="49B0i8A7i4MzncCd7AZk-10" value="微信聊天记录&lt;div&gt;（IM聊天）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-149" y="-831" width="120" height="50" as="geometry" />
