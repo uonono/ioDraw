@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T01:29:49.654Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_d43wq5-sCNGgv2hPNZQ" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T01:30:12.638Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ZJMqrsHI0KMexPvTXrpD" version="24.7.1" type="github">
   <diagram name="第 1 页" id="1ps2bYv6ScKSguF08gRz">
     <mxGraphModel dx="3088" dy="1949" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="49B0i8A7i4MzncCd7AZk-31" value="检查设备信息&lt;div&gt;（检验机器）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-193" y="-181" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="49B0i8A7i4MzncCd7AZk-32" value="工作调整详细" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="49B0i8A7i4MzncCd7AZk-32" value="工作调整详细&lt;div&gt;（调班申请明细表）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-801" y="-83" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="49B0i8A7i4MzncCd7AZk-33" value=" 患者服务员工信息&lt;div&gt;（病人对应服务人员）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
