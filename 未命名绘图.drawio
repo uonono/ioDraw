@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T00:54:23.556Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="29m7sYhGnyuomBDSPIA1" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T00:56:00.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ElA-vyvsv1XwSZiQzXTc" version="24.7.1" type="github">
   <diagram name="第 1 页" id="1ps2bYv6ScKSguF08gRz">
     <mxGraphModel dx="3088" dy="1949" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,6 +114,9 @@
         </mxCell>
         <mxCell id="cfP9h9S7qBykJxQNAteL-1" value="住院信息&lt;div&gt;（门诊病人挂号信息）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="65" y="-397" width="148" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cfP9h9S7qBykJxQNAteL-2" value="住院转出&lt;div&gt;（病人转诊）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="-307" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
