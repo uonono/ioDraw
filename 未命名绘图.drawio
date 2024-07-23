@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T00:50:39.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="FlBVMNWiLvwVXZjFhZ8W" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T00:54:23.556Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="29m7sYhGnyuomBDSPIA1" version="24.7.1" type="github">
   <diagram name="第 1 页" id="1ps2bYv6ScKSguF08gRz">
     <mxGraphModel dx="3088" dy="1949" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,8 +37,8 @@
         <mxCell id="49B0i8A7i4MzncCd7AZk-12" value="设备信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-146" y="-712" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="49B0i8A7i4MzncCd7AZk-13" value="患者随访记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-155" y="-609" width="120" height="50" as="geometry" />
+        <mxCell id="49B0i8A7i4MzncCd7AZk-13" value="患者随访记录&lt;div&gt;（行心云：患者回访表）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-159" y="-609" width="141" height="50" as="geometry" />
         </mxCell>
         <mxCell id="49B0i8A7i4MzncCd7AZk-14" value="医院信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-801" y="-508" width="120" height="50" as="geometry" />
@@ -111,6 +111,9 @@
         </mxCell>
         <mxCell id="49B0i8A7i4MzncCd7AZk-40" value="当前用户信息&lt;div&gt;（客户端信息）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="65" y="-511" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cfP9h9S7qBykJxQNAteL-1" value="住院信息&lt;div&gt;（门诊病人挂号信息）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="-397" width="148" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
