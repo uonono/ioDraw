@@ -64,6 +64,9 @@
         <mxCell id="rbatr0RZPFqrajTzZ2mt-35" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-21" target="rbatr0RZPFqrajTzZ2mt-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-47" value="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-21" target="rbatr0RZPFqrajTzZ2mt-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rbatr0RZPFqrajTzZ2mt-21" value="用户信息-超级管理员&lt;div&gt;（用户）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1041" y="-924" width="120" height="50" as="geometry" />
         </mxCell>
@@ -123,6 +126,15 @@
         </mxCell>
         <mxCell id="rbatr0RZPFqrajTzZ2mt-42" value="安排" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1049.5" y="-1267" width="137" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-48" value="n" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-45" target="rbatr0RZPFqrajTzZ2mt-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-45" value=" 项目信息&lt;div&gt;（收费项目）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-681.5" y="-1164" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-46" value="制定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-873" y="-1040" width="137" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
