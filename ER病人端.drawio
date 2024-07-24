@@ -202,6 +202,9 @@
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-5" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-1" target="5QvbpYxqVvDE7Awgv5K5-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-9" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-1" target="5QvbpYxqVvDE7Awgv5K5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-1" value="工作调整记录&lt;div&gt;（调班申请表）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1827" y="-949" width="120" height="50" as="geometry" />
         </mxCell>
@@ -214,11 +217,14 @@
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-3" value="审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1836" y="-829" width="137" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-8" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-6" target="5QvbpYxqVvDE7Awgv5K5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-6" value="工作调整详细&lt;div&gt;（调班申请明细）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1827" y="-1160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5QvbpYxqVvDE7Awgv5K5-7" value="审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1831" y="-1057" width="137" height="46" as="geometry" />
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-7" value="属于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1835" y="-1057" width="137" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
