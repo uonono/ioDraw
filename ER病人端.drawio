@@ -85,23 +85,32 @@
         <mxCell id="rbatr0RZPFqrajTzZ2mt-31" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-29" target="rbatr0RZPFqrajTzZ2mt-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-38" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-29" target="rbatr0RZPFqrajTzZ2mt-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rbatr0RZPFqrajTzZ2mt-29" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;医生信息&lt;/span&gt;&lt;/div&gt;&lt;div&gt;（医生）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1449" y="-696" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1449" y="-1163" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rbatr0RZPFqrajTzZ2mt-32" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-30" target="rbatr0RZPFqrajTzZ2mt-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rbatr0RZPFqrajTzZ2mt-30" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1458" y="-808" width="137" height="46" as="geometry" />
+          <mxGeometry x="-1457.5" y="-1049" width="137" height="46" as="geometry" />
         </mxCell>
         <mxCell id="rbatr0RZPFqrajTzZ2mt-36" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-33" target="rbatr0RZPFqrajTzZ2mt-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-40" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-33" target="rbatr0RZPFqrajTzZ2mt-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rbatr0RZPFqrajTzZ2mt-33" value="医生注册类型&lt;div&gt;（门诊医生日排班）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1041" y="-1158" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1041" y="-1162" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rbatr0RZPFqrajTzZ2mt-34" value="操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1049.5" y="-1040" width="137" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-37" value="申请（被）排班" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1255" y="-1160" width="137" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
