@@ -271,6 +271,9 @@
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-86" value="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-10" target="5QvbpYxqVvDE7Awgv5K5-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-91" value="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-10" target="5QvbpYxqVvDE7Awgv5K5-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-10" value="病人&lt;div&gt;（病人信息）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2295" y="-1159" width="120" height="50" as="geometry" />
         </mxCell>
@@ -444,6 +447,15 @@
         </mxCell>
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-85" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2020" y="-1232" width="137" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-90" value="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-88" target="5QvbpYxqVvDE7Awgv5K5-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-88" value="住院信息&lt;div&gt;（门诊病人挂号信息）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2539" y="-1491" width="148" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-89" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2441" y="-1354" width="137" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
