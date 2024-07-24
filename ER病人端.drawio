@@ -154,6 +154,9 @@
         <mxCell id="rbatr0RZPFqrajTzZ2mt-56" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-53" target="rbatr0RZPFqrajTzZ2mt-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-64" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-53" target="rbatr0RZPFqrajTzZ2mt-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rbatr0RZPFqrajTzZ2mt-53" value="病历目录&lt;div&gt;（电子病历左侧节点）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1455.5" y="-480" width="140" height="50" as="geometry" />
         </mxCell>
@@ -174,6 +177,15 @@
         </mxCell>
         <mxCell id="rbatr0RZPFqrajTzZ2mt-59" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1645" y="-478" width="137" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-62" value="电子健康档案&lt;div&gt;（健康档案）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1038" y="-480" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-65" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-63" target="rbatr0RZPFqrajTzZ2mt-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-63" value="拥有（包含）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1246" y="-478" width="137" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
