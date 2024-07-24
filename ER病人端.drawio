@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.4">
   <diagram name="第 1 页" id="78033s9l0AK3vR_pznim">
-    <mxGraphModel dx="4555" dy="3016" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4370" dy="2916" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,6 +256,9 @@
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-54" value="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-10" target="5QvbpYxqVvDE7Awgv5K5-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-61" value="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-10" target="5QvbpYxqVvDE7Awgv5K5-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-10" value="病人&lt;div&gt;（病人信息）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2295" y="-1159" width="120" height="50" as="geometry" />
         </mxCell>
@@ -363,6 +366,15 @@
         </mxCell>
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-56" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1539" y="-816" width="137" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-59" value="住院转出&lt;div&gt;（病人转诊）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2029" y="-1565" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-62" value="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-60" target="5QvbpYxqVvDE7Awgv5K5-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-60" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2179" y="-1345" width="137" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
