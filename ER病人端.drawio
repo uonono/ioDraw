@@ -16,6 +16,9 @@
         <mxCell id="rbatr0RZPFqrajTzZ2mt-19" value="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="rbatr0RZPFqrajTzZ2mt-1" target="rbatr0RZPFqrajTzZ2mt-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-99" value="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-1" target="5QvbpYxqVvDE7Awgv5K5-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rbatr0RZPFqrajTzZ2mt-1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;医生信息&lt;/span&gt;&lt;/div&gt;&lt;div&gt;（医生）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-681" y="-711" width="120" height="50" as="geometry" />
         </mxCell>
@@ -468,6 +471,15 @@
         </mxCell>
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-93" value="属于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2128" y="-663" width="137" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-100" value="n" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-97" target="5QvbpYxqVvDE7Awgv5K5-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-97" value=" 订单信息&lt;div&gt;（服务派工单）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1043" y="-559" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-98" value="处理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-864" y="-620" width="137" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
