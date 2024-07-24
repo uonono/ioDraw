@@ -262,6 +262,9 @@
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-61" value="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-10" target="5QvbpYxqVvDE7Awgv5K5-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-73" value="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-10" target="5QvbpYxqVvDE7Awgv5K5-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-10" value="病人&lt;div&gt;（病人信息）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2295" y="-1159" width="120" height="50" as="geometry" />
         </mxCell>
@@ -396,6 +399,15 @@
         </mxCell>
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-68" value="实例（初始化）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1645" y="-658" width="137" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-74" value="n" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-71" target="5QvbpYxqVvDE7Awgv5K5-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-71" value="患者优惠券&lt;div&gt;（商城：用户对应优惠卷）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2610" y="-763" width="152" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-72" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2484" y="-903" width="137" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
