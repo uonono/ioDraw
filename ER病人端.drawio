@@ -58,7 +58,10 @@
         <mxCell id="rbatr0RZPFqrajTzZ2mt-23" value="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-21" target="rbatr0RZPFqrajTzZ2mt-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rbatr0RZPFqrajTzZ2mt-21" value="用户信息&lt;div&gt;（用户）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-27" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-21" target="rbatr0RZPFqrajTzZ2mt-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-21" value="用户信息-超级管理员&lt;div&gt;（用户）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1041" y="-924" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rbatr0RZPFqrajTzZ2mt-24" value="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-22" target="rbatr0RZPFqrajTzZ2mt-1">
@@ -66,6 +69,15 @@
         </mxCell>
         <mxCell id="rbatr0RZPFqrajTzZ2mt-22" value="角色分类（包含）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-873" y="-821" width="137" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-28" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-25" target="rbatr0RZPFqrajTzZ2mt-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-25" value="当前用户信息&lt;div&gt;（客户端信息）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1449" y="-924" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-26" value="操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1253" y="-922" width="137" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
