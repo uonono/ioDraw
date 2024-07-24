@@ -217,6 +217,9 @@
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-4" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-2" target="5QvbpYxqVvDE7Awgv5K5-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-94" value="n" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-2" target="5QvbpYxqVvDE7Awgv5K5-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-2" value="用户信息-超级管理员&lt;div&gt;（用户）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1827" y="-713" width="120" height="50" as="geometry" />
         </mxCell>
@@ -456,6 +459,15 @@
         </mxCell>
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-89" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2441" y="-1354" width="137" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-95" value="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-92" target="5QvbpYxqVvDE7Awgv5K5-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-92" value="用户组信息&lt;div&gt;（团队成员）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2376" y="-595" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-93" value="属于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2128" y="-663" width="137" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
