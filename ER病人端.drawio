@@ -409,6 +409,18 @@
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-72" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2484" y="-903" width="137" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-77" value="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-75" target="5QvbpYxqVvDE7Awgv5K5-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-75" value="医院信息&lt;div&gt;（分院）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1663" y="-1023" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-78" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-76" target="rbatr0RZPFqrajTzZ2mt-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-76" value="属于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1634" y="-1161" width="137" height="46" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
