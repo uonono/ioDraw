@@ -253,6 +253,9 @@
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-47" value="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-10" target="5QvbpYxqVvDE7Awgv5K5-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-54" value="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-10" target="5QvbpYxqVvDE7Awgv5K5-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-10" value="病人&lt;div&gt;（病人信息）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2295" y="-1159" width="120" height="50" as="geometry" />
         </mxCell>
@@ -339,6 +342,27 @@
         </mxCell>
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-46" value="服务" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2160" y="-1045" width="137" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-53" value="n" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-51" target="5QvbpYxqVvDE7Awgv5K5-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-51" value="微信聊天记录&lt;div&gt;（IM聊天）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2717" y="-1421" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-52" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2513" y="-1293" width="137" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-57" value="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-55" target="5QvbpYxqVvDE7Awgv5K5-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-55" value="临时病历&lt;div&gt;（&lt;span style=&quot;background-color: initial;&quot;&gt;行心云：&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;EMR文件列表&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1667" y="-923" width="165" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-58" value="n" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-56" target="rbatr0RZPFqrajTzZ2mt-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-56" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1539" y="-816" width="137" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
