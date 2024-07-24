@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.4">
   <diagram name="第 1 页" id="78033s9l0AK3vR_pznim">
-    <mxGraphModel dx="2849" dy="2988" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3676" dy="2988" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,7 +139,10 @@
         <mxCell id="rbatr0RZPFqrajTzZ2mt-46" value="制定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-865.5" y="-1049" width="137" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="rbatr0RZPFqrajTzZ2mt-49" value="病历XML&lt;div&gt;（电子病历元素内容信息）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-57" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-49" target="rbatr0RZPFqrajTzZ2mt-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-49" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;用户病历模板&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;（用户对应电子病历）&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1464" y="-708" width="158" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rbatr0RZPFqrajTzZ2mt-52" value="n" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-50" target="rbatr0RZPFqrajTzZ2mt-49">
@@ -147,6 +150,18 @@
         </mxCell>
         <mxCell id="rbatr0RZPFqrajTzZ2mt-50" value="编辑" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1258" y="-807" width="137" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-56" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-53" target="rbatr0RZPFqrajTzZ2mt-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-53" value="病历目录&lt;div&gt;（电子病历左侧节点）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1455.5" y="-480" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-54" value="病历XML&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（电子病历元素内容信息）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1765" y="-896" width="137" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-55" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1453.5" y="-593" width="137" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
