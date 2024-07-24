@@ -13,7 +13,10 @@
         <mxCell id="rbatr0RZPFqrajTzZ2mt-14" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-1" target="rbatr0RZPFqrajTzZ2mt-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rbatr0RZPFqrajTzZ2mt-1" value="用户信息&lt;div&gt;（用户）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-19" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-1" target="rbatr0RZPFqrajTzZ2mt-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-1" value="用户信息-医生-管理员&lt;div&gt;（用户）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-681" y="-711" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rbatr0RZPFqrajTzZ2mt-3" value="签约登记&lt;div&gt;（病人签约信息表，医务通APP接口）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -42,6 +45,15 @@
         </mxCell>
         <mxCell id="rbatr0RZPFqrajTzZ2mt-13" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-868" y="-708" width="137" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-20" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-17" target="rbatr0RZPFqrajTzZ2mt-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-17" value="病人投标信息&lt;div&gt;（病人照管）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-681" y="-924" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-18" value="安排" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="-821" width="137" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
