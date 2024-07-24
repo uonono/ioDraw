@@ -427,6 +427,14 @@
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-77" value="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-75" target="5QvbpYxqVvDE7Awgv5K5-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-103" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-75" target="5QvbpYxqVvDE7Awgv5K5-102">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1603" y="-1075" />
+              <mxPoint x="-1658" y="-1075" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-75" value="医院信息&lt;div&gt;（分院）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1663" y="-1023" width="120" height="50" as="geometry" />
         </mxCell>
@@ -434,7 +442,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-76" value="属于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1634" y="-1161" width="137" height="46" as="geometry" />
+          <mxGeometry x="-1627" y="-1126" width="137" height="46" as="geometry" />
         </mxCell>
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-83" value="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-79" target="5QvbpYxqVvDE7Awgv5K5-81">
           <mxGeometry relative="1" as="geometry" />
@@ -480,6 +488,15 @@
         </mxCell>
         <mxCell id="5QvbpYxqVvDE7Awgv5K5-98" value="处理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-864" y="-620" width="137" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-106" value="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5QvbpYxqVvDE7Awgv5K5-101" target="5QvbpYxqVvDE7Awgv5K5-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-101" value="医院联合详情&lt;div&gt;（关联表）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1726" y="-1247" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5QvbpYxqVvDE7Awgv5K5-102" value="关联" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1687" y="-1172" width="137" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
