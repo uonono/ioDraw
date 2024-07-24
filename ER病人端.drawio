@@ -10,6 +10,9 @@
         <mxCell id="rbatr0RZPFqrajTzZ2mt-10" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-1" target="rbatr0RZPFqrajTzZ2mt-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-14" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-1" target="rbatr0RZPFqrajTzZ2mt-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rbatr0RZPFqrajTzZ2mt-1" value="用户信息&lt;div&gt;（用户）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-681" y="-711" width="120" height="50" as="geometry" />
         </mxCell>
@@ -32,10 +35,13 @@
           <mxGeometry x="-689.5" y="-607.5" width="137" height="46" as="geometry" />
         </mxCell>
         <mxCell id="rbatr0RZPFqrajTzZ2mt-12" value="医生等级信息&lt;div&gt;（职称）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1036" y="-711" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1038" y="-710" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rbatr0RZPFqrajTzZ2mt-13" value="录入" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-867" y="-707" width="137" height="46" as="geometry" />
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-15" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-13" target="rbatr0RZPFqrajTzZ2mt-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-13" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-868" y="-708" width="137" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
