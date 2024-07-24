@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.4">
   <diagram name="第 1 页" id="78033s9l0AK3vR_pznim">
-    <mxGraphModel dx="2849" dy="1819" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2849" dy="2988" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,6 +103,9 @@
         <mxCell id="rbatr0RZPFqrajTzZ2mt-40" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-33" target="rbatr0RZPFqrajTzZ2mt-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-43" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-33" target="rbatr0RZPFqrajTzZ2mt-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rbatr0RZPFqrajTzZ2mt-33" value="医生注册类型&lt;div&gt;（门诊医生日排班）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1041" y="-1162" width="120" height="50" as="geometry" />
         </mxCell>
@@ -111,6 +114,15 @@
         </mxCell>
         <mxCell id="rbatr0RZPFqrajTzZ2mt-37" value="申请（被）排班" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1255" y="-1160" width="137" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-44" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rbatr0RZPFqrajTzZ2mt-41" target="rbatr0RZPFqrajTzZ2mt-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-41" value="诊室信息&lt;div&gt;（诊室）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1041" y="-1371" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rbatr0RZPFqrajTzZ2mt-42" value="安排" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1049.5" y="-1267" width="137" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
